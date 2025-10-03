@@ -1,12 +1,13 @@
-# React + Vite
+# 🎬 MoodFlix  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MoodFlix is a movie recommendation app that lets you discover movies based on your current **mood**. 🎭  
+Select a mood, apply filters (genre, year, rating, etc.), and explore a curated catalog of films.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+- 🎭 Pick movies based on mood (Happy, Sad, Excited, Romantic, etc.)  
+- 🔍 Filter movies by genre, release year, and rating  
+- 🎨 Simple and responsive UI inspired by streaming platforms  
+- ⚡ Built with React + Vite  
+- 🌍 Deployed with GitHub Pages  
