@@ -31,5 +31,6 @@ app.get('/api/discover', async (req, res) => {
     res.status(500).json({ error: 'Failed to fetch movies from TMDB' });
   }
 });
-
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+app.listen(PORT, '0.0.0.0', () => {
+  console.log(`Server running on port ${PORT}`);
+});
